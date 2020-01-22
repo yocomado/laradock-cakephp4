@@ -41,3 +41,9 @@ $ vim laradock/nginx/sites/default.conf
 ### nginxコンテナを再起動
 $ docker-compose restart nginx
 
+
+
+
+
+## TODO
+* nginx/sites/default.conf をup時に配置
